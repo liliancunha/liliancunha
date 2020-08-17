@@ -7,7 +7,7 @@
 
 - :earth_americas: I'm from Rio de Janeiro / Brazil
 - :mortar_board: **Graduation:** System Analysis - PUC-Rio
-- :headphones: **Hobbies:** Yoga and Meditation :yoga
+- :headphones: **Hobbies:** Yoga and Meditation :smiley:
 - :computer: **Languages:** Ruby, C#, Java.
 - :wrench: **Tools:** Selenium WebDriver, Rest-Assured, Appium, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira.
 - :hammer: **Other tools:** Jenkins, Docker, Git, Maven, Bundler and Composer.
