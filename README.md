@@ -6,15 +6,15 @@
 ## About me: 
 
 - :earth_americas: I'm from Rio de Janeiro / Brazil
-- :mortar_board: **Graduation:** System Analysis - PUC-Rio
-- :headphones: **Hobbies:** Yoga and Meditation :smiley:
-- :computer: **Languages:** Ruby, C#, Java.
+- :mortar_board: **Master Degree:** System Analysis - Federal University of Rio de Janeiro
+- :headphones: **Hobbies:** Dance, Yoga and Meditation :smiley:
+- :computer: **Languages:** Cypress, Typescript, Ruby, C#, Java.
 - :wrench: **Tools:** Selenium WebDriver, Rest-Assured, Appium, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira.
 - :hammer: **Other tools:** Jenkins, Docker, Git, Maven, Bundler and Composer.
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
 
 
-- 🔭 I’m currently working on Ruby
+- 🔭 I’m currently working on Cypress Framework for APIs
 
 
 <!--
